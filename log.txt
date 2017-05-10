@@ -1,0 +1,9 @@
+Read text from file
+Convert Stream to StringBuilder
+Convert StringBuilder to String
+Convert String to Array
+Find the symbol, do the arithmetic operation and out result
+2
+32
+15
+6
